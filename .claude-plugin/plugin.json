@@ -1,0 +1,16 @@
+{
+  "name": "workbench-delivery-skills",
+  "version": "0.1.0",
+  "description": "Selected engineering delivery skills for Workbench.",
+  "skills": [
+    "./.agents/skills/architect",
+    "./.agents/skills/research",
+    "./.agents/skills/grill-with-docs",
+    "./.agents/skills/to-spec",
+    "./.agents/skills/to-plan",
+    "./.agents/skills/to-tasks",
+    "./.agents/skills/next-task",
+    "./.agents/skills/next-slice",
+    "./.agents/skills/pdd"
+  ]
+}
